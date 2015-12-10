@@ -1,0 +1,48 @@
+Army
+Air Force
+Navy
+Marines
+Supply / Bases
+Police
+Land Missile Silos (ICBMs)
+
+Intelligence
+
+Officers:
+=========
+Officers are given their commission by the head of state.
+
+OF-10	Supreme Commander			Head of State
+OF-9	Admiral
+OF-8	Vice Admiral
+OF-7	Rear Admiral
+OF-6	General						Beginning to think strategic.
+OF-5	Commodore					Of a base. Still thinking tactical.
+OF-4	Captain						Of a big ship.
+OF-3	Commander					Of a small ship or outpost.
+OF-2	Leiutenant
+OF-1	Leiutenant
+
+Warrant Officers:
+=================
+Specialist crew members (doctors, chaplains, engineers, etc). Given a warrant by HoS for a particular ship/craft/thing and/or period of time (rather than ongoing commission). Used only in special circumstances. Equal to other ranks (WO-5 == OR-9, WO-1 == OR-5).
+
+WO-5	Warrant Officer 1st Class
+WO-4	Warrant Officer 2nd Class
+WO-3	Warrant Officer 3rd Class
+WO-2	Warrant Officer 4th Class
+WO-1	Warrant Officer 5th Class
+
+Other Ranks:
+============
+Enlisted are simply employed by officers. These are non-commisioned officers.
+
+OR-9	Officer Recruit
+OR-8	Sergeant (Upper)			1+ yrs at OR-7
+OR-7	Sergeant (Lower)
+OR-6	Corporal (Upper)			1+ yrs at OR-5
+OR-5	Corporal (Lower)
+OR-4	Private (Upper)				1+ yrs
+OR-3	Private (Lower)				No Experience
+OR-2	Recruit						At recruit school
+OR-1	Recruit Candidate			Before recruit school

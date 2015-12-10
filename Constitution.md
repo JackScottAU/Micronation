@@ -1,5 +1,17 @@
 # Constitution #
 
+Executive is corporation sole, can exercise power within currently enacted laws and bill of rights.
+
+Legislature is council who decide on policy, 
+
+You cannot have a monarchy with unabsolute power. Either they are above the law, or they are under it.
+	If the monarch has to abide by the law, they do not have absolute power, and are thus not a monarch.
+	
+Sovereignty
+Military and it's head
+
+
+
 ## Bill Of Rights ##
 
 All natural persons falling under the jurisdiction of The Country have the 
@@ -16,7 +28,10 @@ following irrevocable rights:
 Any person who is a member of any one branch of government cannot be a member of any other branch of government. Only citizens can hold positions in the government.
 
 ### The Head of Government ###
-The Head of Government is the ceremonial head of the government and represents the power of the government in the nation. The Head of Government cannot be a former council or parliament member. The Head of Government acts on the advice of the council. The HoG can kick of either the council or the parliament or both. The council unaminously can get rid of the HoG. HoG terms are for five years and the HoG is voted on by the council. 
+The Head of Government is the ceremonial head of the government and represents the power of the government in the nation. 
+The Head of Government cannot be a former council or parliament member. The Head of Government acts on the advice of the council. 
+The HoG can kick of either the council or the parliament or both. The council unaminously can get rid of the HoG. 
+HoG terms are for five years and the HoG is voted on by the council. 
 Powers given to the HoG exclusively:
 * To preside over meetings of the council.
 * To dismiss individual members of the council.
