@@ -46,3 +46,40 @@ OR-4	Private (Upper)				1+ yrs
 OR-3	Private (Lower)				No Experience
 OR-2	Recruit						At recruit school
 OR-1	Recruit Candidate			Before recruit school
+
+
+Navy
+----
+A-***	Aircraft Carriers (CATOBAR) - Command Centre/AEGIS/self-defence
+B-***	Battleship - Command Centre, AEGIS, big guns  - similar "centre" of strike group role as a carrier
+C-***	Cruiser - Command Centre, AEGIS, guided missiles - over the horizon attacks, helicopter
+D-***	Destroyer - Defence of strike group - aegis, small gun, guided missiles and torpedoes, helicopter (anti-air, anti-sub)
+E-***	
+F-***	Frigate - Fast ships, independent for small missions
+G-***	Corvette - coastal patrol ship - not for independent operations
+H-***	Hospital ship / executive ship
+I-***	
+J-***
+K-***
+L-***	Landing Ship - needs to be able to do logistics support for marines
+M-***	Landing Boat (x1 jeep)
+
+Motor Launch (fancy)
+Motor Boat (non-fancy, really really fast)
+Supply ship - all in one - fuel oil, aviation fuel, water, food, ammo, misc stores
+Minehunter - same hull as corvette?
+
+
+***-T	(turbine - oil then steam)
+***-N	(nuclear)
+***-D	(diesel)
+
+
+Battlegroups:
+-------------
+
+One of either an A, B, or C class, with a number (at least 2) Ds and some E, F, and some 
+
+SHIP CLASSES:
+=============
+Classes are named after the 
